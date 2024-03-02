@@ -734,6 +734,8 @@ int main() {
 
 	while (1) {
 
+		gpio_read(GPIOE, 6, 4);
+
 	}
 
 	// while (1) {
